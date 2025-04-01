@@ -1,6 +1,6 @@
 ## Olá! Eu sou o Iderval Neto!
-
-<div align="center"">  
+<div>  
+  &nbsp;&nbsp;&nbsp;&nbsp;  &nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Gif_N3to_GitHub.gif" width="180">
 </div>
 
