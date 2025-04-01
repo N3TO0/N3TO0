@@ -1,4 +1,6 @@
 ## Olá! Eu sou o Iderval Neto!
+
+![Descrição alternativa](Gif_N3to_GitHub.gif)
 ### Full Stack Developer | Python & IA | 
 
 > Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao entrar na graduação em Sistemas de Informação. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
@@ -35,15 +37,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="Vscode" height="30" width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg" alt="photoshop" height="30" width="40" />        
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" height="30" width="40"/>
-
-          
-          
-          
-          
+  gif          
           
 </div>
 
----
+--- 
 ### 📫 Onde me encontrar?
 
 <div>
