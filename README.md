@@ -8,8 +8,6 @@
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack
 - 🌱 Estudando: Sql, Django, JavaScript e C
-- 📫 Contate-me no e-mail: neto.dev.12@gmail.com
-- 😄 Pronomes: ele/dele
 
 ---
 ### Estatísticas do GitHub
