@@ -1,5 +1,13 @@
-## Olá! Eu sou o Iderval Neto! 
-<img src="Gif_N3to_GitHub.gif"  width="150" style="margin= 10px">
+## Olá! Eu sou o Iderval Neto!
+### Estatísticas do GitHub
+<div align="center"">  
+  <img src="Gif_N3to_GitHub.gif" width="180">
+  &nbsp;&nbsp;&nbsp;&nbsp; 
+  <a href="https://github.com/N3TO0">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&layout=compact&langs_count=8&theme=tokyonight"/>
+  </a>
+</div>
 
 ### Full Stack Developer | Python & IA | 
 
@@ -10,21 +18,8 @@
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack
 - 🌱 Estudando: Sql, Django, JavaScript e C
-
 ---
-### Estatísticas do GitHub
 
-
-  <div align="center""> 
-    
-  <a href="https://github.com/N3TO0">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&layout=compact&langs_count=8&theme=tokyonight"/>
-  </a>
-  
-</div>
-
----
 ### Tecnologias e Ferramentas
 
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;">
@@ -43,8 +38,6 @@
   </div>
 
 --- 
-### 📫 Onde me encontrar?
-
 <div>
   <a href="https://www.youtube.com/@idervalneto3567"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/n3to_00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
