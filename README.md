@@ -16,7 +16,7 @@
 
 ---
 
-**Destaques:**
+### Destaques:
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack
 - 🌱 Estudando: Sql, Django, JavaScript e C
