@@ -3,18 +3,21 @@
 
 
 <div align="center">  
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <img src="Gif_N3to_GitHub.gif" width="180">
 
 </div>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;
 
 <div align="center">  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Full Stack Developer | Python & IA |
 </div>
 
-> Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao entrar na graduação em Sistemas de Informação. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
+&nbsp;
+
+
+>Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao entrar na graduação em Sistemas de Informação. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
 
 
 ---
