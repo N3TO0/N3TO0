@@ -1,4 +1,4 @@
-## Olá! Eu sou o Iderval Neto !
+## Olá! Eu sou o Iderval Neto!
 ### Full Stack Developer | Python & IA | 
 
 > Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao entrar na graduação em Sistemas de Informação. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
