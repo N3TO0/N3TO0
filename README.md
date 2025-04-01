@@ -1,8 +1,9 @@
 ## Olá! Eu sou o Iderval Neto!
 ### Estatísticas do GitHub
+
 <div align="center"">  
   <img src="Gif_N3to_GitHub.gif" width="180">
-  &nbsp;&nbsp;&nbsp;&nbsp; 
+  &nbsp;
   <a href="https://github.com/N3TO0">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&layout=compact&langs_count=8&theme=tokyonight"/>
