@@ -11,7 +11,7 @@
 &nbsp;&nbsp;&nbsp;
 
 <div align="center">  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Full Stack Developer | Python & IA |
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| Full Stack Developer | Python & IA |
 </div>
 
 &nbsp;
