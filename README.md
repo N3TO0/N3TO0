@@ -1,15 +1,22 @@
 ## Olá! Eu sou o Iderval Neto!
-<div>  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<div align="center">  
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="Gif_N3to_GitHub.gif" width="180">
 </div>
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-### Full Stack Developer | Python & IA | 
+<div align="center">
+Full Stack Developer | Python & IA | 
 
 > Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao entrar na graduação em Sistemas de Informação. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
+</div>
 
 ---
+
 **Destaques:**
 
 - 🔭 Hoje trabalho com desenvolvimento full-stack
@@ -18,7 +25,7 @@
 
 ### Estatísticas do GitHub
 
-<div align="center"">  
+<div align="center">  
   <a href="https://github.com/N3TO0">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&layout=compact&langs_count=8&theme=tokyonight"/>
