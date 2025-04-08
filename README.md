@@ -1,13 +1,5 @@
 ## Olá! Eu sou o Iderval Neto!
 
-<div align="center">  
-  &nbsp;&nbsp;
-  <img src="Gif_N3to_GitHub.gif" width="180">
-
-</div>
-
-&nbsp;
-
 
 >Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao entrar na graduação em Sistemas de Informação. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
 
