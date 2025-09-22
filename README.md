@@ -1,7 +1,7 @@
 ## Olá! meu nome é Iderval Neto!
 
 
->Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao Cursar Análise e Desenvolvimento de Sistemas. Atualmente, estudo Python, Django, JavaScript, Git/GitHub e CSS, me aprofundando no back-end e front-end.
+>Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao Cursar Análise e Desenvolvimento de Sistemas. Atualmente, estudo back-end com Python utilizando Django, e utilizando React para o front-end, alem de utilizar Git/GitHub para versionamento e MySql para criação e genrenciamento de banco de dados.
 
 
 ---
@@ -9,7 +9,7 @@
 ### Destaques:
 
   <p>🔭 Hoje trabalho com desenvolvimento full-stack</p> 
-  <p>🌱 Estudando: Sql, Django e React</p>
+  <p>🌱 Estudando: Automatomoção de sistemas e procedimentos, Sql, Django e React</p>
 
 ---
 
