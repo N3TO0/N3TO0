@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✌️Olá!+sou+o+Iderval+Neto)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✌️+Olá!+sou+o+Iderval+Neto)
 
 >Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao Cursar Análise e Desenvolvimento de Sistemas. Atualmente, estudo back-end com Python utilizando Django, e utilizando React para o front-end, alem de utilizar Git/GitHub para versionamento e MySql para criação e genrenciamento de banco de dados.
 
