@@ -7,8 +7,7 @@
 
 ### Destaques:
 
-  <p>🔭 Hoje trabalho com desenvolvimento full-stack</p> 
-  <p>🌱 Estudando: Automatomoção de sistemas e procedimentos, Sql, Django e React</p>
+  <p>🔭 Atualmente trabalho com desenvolvimento full-stack</p> 
 
 ---
 
