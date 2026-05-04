@@ -25,6 +25,7 @@
     title="HTML" 
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
 <img 
@@ -41,6 +42,7 @@
     title="JavaScript"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;"   
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 <img 
@@ -49,6 +51,7 @@
     title="React" 
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
 />
 <img 
@@ -57,6 +60,7 @@
     title="Bootstrap" 
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
 />
 <img 
@@ -65,6 +69,7 @@
     title="Git"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
@@ -73,6 +78,7 @@
     title="Python"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
 <img 
@@ -80,7 +86,8 @@
     alt="Django" 
     title="Django"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
 />
 <img 
@@ -88,7 +95,8 @@
     alt="C#" 
     title="C#"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
 />
 <img 
@@ -97,6 +105,7 @@
     title="Dotnet"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;"  
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
 />
 <img 
@@ -104,7 +113,8 @@
     alt="MySQL" 
     title="MySQL"
     width="30px" 
-    style="padding-right: 10px;"
+    style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"
 />
 <img 
@@ -112,7 +122,8 @@
     alt="SqLITE" 
     title="SqLITE"
     width="30px" 
-    style="padding-right: 1px;"
+    style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
 <img 
     align="left" 
@@ -120,6 +131,7 @@
     title="Photoshop"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
 />
 <img 
@@ -128,6 +140,7 @@
     title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
+    style="padding-bottom: 30px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
 />
 <img 
@@ -136,7 +149,8 @@
     title="DaVince Resolve"
     width="30px" 
     style="padding-right: 10px;" 
-   src="icon_davince.png"
+    style="padding-bottom: 10px;" 
+     src="icon_davince.png"
 />
 
 <br/>
