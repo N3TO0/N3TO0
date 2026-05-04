@@ -1,3 +1,5 @@
+<div>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=✌️Olá!+sou+o+Iderval+Neto)
 
 >Apaixonado por tecnologia, iniciei minha jornada no desenvolvimento web ao Cursar Análise e Desenvolvimento de Sistemas. Atualmente, estudo back-end com Python utilizando Django, e utilizando React para o front-end, alem de utilizar Git/GitHub para versionamento e MySql para criação e genrenciamento de banco de dados.
@@ -13,7 +15,6 @@
 ---
 
 ### Tecnologias e Ferramentas
-<div > 
   <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 20px;"> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" height="30" width="40"/>
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="Html5" height="30" width="40"/>
@@ -21,15 +22,19 @@
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="40"/>
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" height="30" width="40"/> 
           <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" alt="Django" height="30" width="40"/>
-          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40"/> 
-
-          
-          
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" height="30" width="40"/>
   </div>
   
 ---
+  
+### 📊 Minhas Estatísticas
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+---
 
 <div > 
   <a href="https://www.instagram.com/n3to_00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -45,3 +50,4 @@
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N3TO0/N3TO0/output/github-contribution-grid-snake.svg">
 </picture>
 </div>
+
