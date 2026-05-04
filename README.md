@@ -124,8 +124,8 @@
 />
 <img 
     align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
+    alt="Figma" 
+    title="Figma"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
@@ -150,6 +150,7 @@
   <a href="https://www.linkedin.com/in/iderval-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:neto.dev.12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
+---
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N3TO0/N3TO0/output/github-contribution-grid-snake-dark.svg">
