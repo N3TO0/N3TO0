@@ -131,8 +131,8 @@
 />
 <img 
     align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
+    alt="DaVince Resolve" 
+    title="DaVince Resolve"
     width="30px" 
     style="padding-right: 10px;" 
    src="icon_davince.png"
