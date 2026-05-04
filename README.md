@@ -18,7 +18,7 @@
 ### Tecnologias e Ferramentas
 <br>
   
-  | 🌐 Front-end | ⚙️ Back-end | 🧰 Banco de Dados | Ferramentas |
+  | 🌐 Front-end | ⚙️ Back-end | 🧰 Banco de Dados | 🔧 Ferramentas |
   | :---: | :---: | :---: | :---: |
   | Html| Python | MySql | Figman |
   | Css | Django | SqLite | Photoshop |
