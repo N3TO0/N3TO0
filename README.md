@@ -11,7 +11,7 @@
 ### Destaques:
 <br>
 
-  -  **Back-end** com (Python, Django, SQL)
+  -  **Back-end** com (Python, FastAPI, SQL)
   -  **Front-end** com (React com Vite, JavaScript, HTML e CSS).
 <br>
 
