@@ -56,15 +56,6 @@
 />
 <img 
     align="left" 
-    alt="Bootstrap"
-    title="Bootstrap" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" 
-/>
-<img 
-    align="left" 
     alt="Git" 
     title="Git"
     width="30px" 
@@ -83,33 +74,6 @@
 />
 <img 
     align="left" 
-    alt="Django" 
-    title="Django"
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg"
-/>
-<img 
-    align="left" 
-    alt="C#" 
-    title="C#"
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Dotnet" 
-    title="Dotnet"
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px;"  
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dot-net/dot-net-original.svg"
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
@@ -125,33 +89,6 @@
     style="padding-right: 10px;" 
     style="padding-bottom: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" />
-<img 
-    align="left" 
-    alt="Photoshop" 
-    title="Photoshop"
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg"
-/>
-<img 
-    align="left" 
-    alt="Figma" 
-    title="Figma"
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 30px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg"
-/>
-<img 
-    align="left" 
-    alt="DaVince Resolve" 
-    title="DaVince Resolve"
-    width="30px" 
-    style="padding-right: 10px;" 
-    style="padding-bottom: 10px;" 
-     src="icon_davince.png"
-/>
 
 <br/>
 <br/>
