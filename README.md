@@ -47,8 +47,8 @@ Tecnologias principais:
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&layout=compact&theme=radial"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=N3TO0&layout=compact&theme=radial"/>
 </div>
 
 ---
