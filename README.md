@@ -1,4 +1,4 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo!+👋)
+<!-- ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo!+👋) -->
 
 <img src="banner.png">
 
