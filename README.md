@@ -1,8 +1,8 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Seja+bem-vindo!+👋)
 
-# Olá, eu sou Iderval Neto!
-
 <img src="banner.png">
+
+# Olá, eu sou Iderval Neto!
 
 ### 🚀 Sobre mim
 
