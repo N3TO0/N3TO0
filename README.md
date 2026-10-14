@@ -8,7 +8,7 @@
 
 Desenvolvedor(a) focado(a) em criar soluções eficientes e impactantes.
 
-- 🌱 Aprendendo: **Danjgo, Selenium, Docker**
+- 🌱 Aprendendo: **Django, Selenium, Docker**
 - 📫 Como me encontrar: **neto.dev.12@gmail.com** ou no **[LinkedIn](https://www.linkedin.com/in/iderval-neto/)**
 
 Tecnologias principais:
