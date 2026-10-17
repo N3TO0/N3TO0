@@ -8,8 +8,14 @@
 
 Desenvolvedor(a) focado(a) em criar soluções eficientes e impactantes.
 
-- 🌱 Aprendendo: **Django, Selenium, Docker**
-- 📫 Como me encontrar: **neto.dev.12@gmail.com** ou no **[LinkedIn](https://www.linkedin.com/in/iderval-neto/)**
+#### 🌱 Aprendendo: 
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Selenium](https://img.shields.io/badge/selenium-%2343B02A.svg?style=for-the-badge&logo=selenium&logoColor=white)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+  
+#### 📫 Como me encontrar:
+<a href="https://www.linkedin.com/in/iderval-neto/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="mailto:neto.dev.12@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 Tecnologias principais:
 
