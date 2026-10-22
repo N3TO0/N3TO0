@@ -4,8 +4,6 @@
 
 # Olá, eu sou Iderval Neto!
 
-<img width="155px" src="Gif_N3to_GitHub.gif">
-
 ### 🚀 Sobre mim
 
 Desenvolvedor(a) focado(a) em criar soluções eficientes e impactantes.
