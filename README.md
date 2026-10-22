@@ -4,6 +4,8 @@
 
 # Olá, eu sou Iderval Neto!
 
+<img width="155px" src="Gif_N3to_GitHub.gif">
+
 ### 🚀 Sobre mim
 
 Desenvolvedor(a) focado(a) em criar soluções eficientes e impactantes.
@@ -60,7 +62,6 @@ Tecnologias principais:
 ---
 
  ### 📊 Estatísticas do GitHub
-<img width="155px" src="Gif_N3to_GitHub.gif">
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
