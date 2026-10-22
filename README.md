@@ -52,7 +52,7 @@ Tecnologias principais:
 
  ### 📊 Estatísticas do GitHub
 
-[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?N3TO0=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=N3TO0&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 <img width="135px" src="Gif_N3to_GitHub.gif">
