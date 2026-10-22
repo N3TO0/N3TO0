@@ -50,15 +50,11 @@ Tecnologias principais:
 
 ---
 
-<!-- ### 📊 Estatísticas do GitHub
+ ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=N3TO0&show_icons=true&theme=radial&include_all_commits=true&count_private=true"/>
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=N3TO0&layout=compact&theme=radial"/>
-</div> -->
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?N3TO0=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
-<br>
 <img width="135px" src="Gif_N3to_GitHub.gif">
 
 ### 🔗 Redes Sociais
