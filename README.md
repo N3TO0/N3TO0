@@ -55,10 +55,10 @@ Tecnologias principais:
 [![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=N3TO0&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-<img width="135px" src="Gif_N3to_GitHub.gif">
 
 ### 🔗 Redes Sociais
 
+<img width="155px" src="Gif_N3to_GitHub.gif">
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://iderval-neto-dev.netlify.app)
 <a href="https://www.instagram.com/n3to_00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
