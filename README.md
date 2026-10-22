@@ -50,15 +50,7 @@ Tecnologias principais:
 
 ---
 
- ### 📊 Estatísticas do GitHub
-
-[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=N3TO0&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
 ### 🔗 Redes Sociais
-
-<img width="155px" src="Gif_N3to_GitHub.gif">
 
 [![Portfolio](https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=about.me&logoColor=white)](https://iderval-neto-dev.netlify.app)
 <a href="https://www.instagram.com/n3to_00/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -67,8 +59,18 @@ Tecnologias principais:
 
 ---
 
+ ### 📊 Estatísticas do GitHub
+<img width="155px" src="Gif_N3to_GitHub.gif">
+
+[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=N3TO0&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Naereen's github stats](https://github-readme-stats.vercel.app/api?username=N3TO0&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Naereen's github streak](https://github-readme-streak-stats.herokuapp.com/?user=N3TO0&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
+
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/N3TO0/N3TO0/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/N3TO0/N3TO0/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/N3TO0/N3TO0/output/github-contribution-grid-snake.svg">
 </picture>
+
